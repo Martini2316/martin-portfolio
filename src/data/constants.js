@@ -240,8 +240,8 @@ export const projects = [
     spaceinv,
     tags: ["JAVASCRIPT", "ELECTRON"],
     category: "game",
-    github: "https://martini2316.github.io/404/",
-    webapp: "https://youtu.be/OgsQ2vYpDHA",
+    github: "https://github.com/Martini2316/space-invaders",
+    webapp: "https://martini2316.github.io/space-invaders/",
   },
 ];
 
