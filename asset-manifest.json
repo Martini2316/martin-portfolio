@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/martin-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/martin-portfolio/static/js/main.6b5fde2e.js",
+    "static/media/spacexwiki.png": "/martin-portfolio/static/media/spacexwiki.f63ab9bb3376892f1c02.png",
+    "static/media/loginpage.png": "/martin-portfolio/static/media/loginpage.f5d02b40cffe9eb5d9a8.png",
+    "static/media/kamien.png": "/martin-portfolio/static/media/kamien.7cba3479dd23a897ee1e.png",
+    "static/media/HeroImage.png": "/martin-portfolio/static/media/HeroImage.b6a31c4618698ea504fb.png",
+    "static/media/spaceinv.png": "/martin-portfolio/static/media/spaceinv.ded8ffb1b06c0298426e.png",
+    "static/media/passgen.png": "/martin-portfolio/static/media/passgen.d1b3fbedf82fa6eb67f8.png",
+    "static/media/qrcode.png": "/martin-portfolio/static/media/qrcode.4ddb4b71af6c3a40aa73.png",
+    "index.html": "/martin-portfolio/index.html",
+    "main.bf538fe7.css.map": "/martin-portfolio/static/css/main.bf538fe7.css.map",
+    "main.6b5fde2e.js.map": "/martin-portfolio/static/js/main.6b5fde2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.6b5fde2e.js"
+  ]
+}
